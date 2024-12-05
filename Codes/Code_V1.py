@@ -11,10 +11,8 @@ from itertools import product
 from random import shuffle
 from sklearn.model_selection import TimeSeriesSplit
 
-password = pd.read_csv('Password.csv')
-
-DB_username = password.loc[password['Type']=='Database', 'UserName'].values[0]
-DB_password = password.loc[password['Type']=='Database', 'password'].values[0]
+DB_username = os.getenv("DHW_Username")
+DB_password = os.getenv("DHW_Password")
 
 # step 1 databse connection 
 # Input details for the SQL database

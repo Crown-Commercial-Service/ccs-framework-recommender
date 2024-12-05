@@ -5,10 +5,8 @@ import os
 import pandas as pd
 from sqlalchemy import create_engine
 
-password = pd.read_csv(r'C:\Users\Naresh.Sampara\PycharmProjects\P9_FRAMEWORD_recommender\Password.csv')
-
-DB_username = password.loc[password['Type']=='Database', 'UserName'].values[0]
-DB_password = password.loc[password['Type']=='Database', 'password'].values[0]
+DB_username = os.getenv("DHW_Username")
+DB_password = os.getenv("DHW_Password")
 
 # Input details for the SQL database
 DB_TYPE = "mssql"
