@@ -1,0 +1,18 @@
+Open Banking (Data, Digital Payments & Confirmation of Payee Services) DPS
+All central government departments and UK public sector bodies can access open banking related tools and services.
+This is the description of the Open Banking (Data, Digital Payments & Confirmation of Payee Services) DPS agreement. 
+Instead of relying on card payments, open banking services provide citizens and businesses with an alternative method of paying and/or receiving money from the public sector.
+You will be able to access a range of open banking services including:
+Payment Initiation Service Providers (PISPs): PISPs let you pay companies directly from your bank account rather than using your debit or credit card through a third party, such as Visa or Mastercard
+Account Information Service Providers (AISPs): being an authorised AISP means that a company can access an individual’s bank account data from their financial institution with their explicit consent
+To help you find the services and suppliers to meet your needs you will be able to use the following filters:
+service type
+total contract value
+hosting and delivery capabilities
+This Dynamic Purchasing System (DPS) will run for 8 years.
+
+These are the benefits of the Open Banking (Data, Digital Payments & Confirmation of Payee Services) DPS agreement. 
+open banking will reduce customer transaction costs where card payments are the existing and only method of payment
+payments can be made directly from bank account to bank account without the need to repeatedly input details
+existing customers of the Payment Acceptance framework can transition to Open Banking
+includes real time bank account data to confirm payee account details reducing the risk of error payments and minimising losses due to fraud

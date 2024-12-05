@@ -1,0 +1,30 @@
+Artificial Intelligence (AI)
+Discovery and consultancy services related to artificial intelligence (AI), implementation and support of AI systems, end-to-end partnerships, and AI technologies.
+This is the description of the Artificial Intelligence (AI) agreement. 
+This agreement will use a Dynamic Purchasing System (DPS) to offer artificial intelligence (AI) services to the whole of the public sector and their associated bodies and agencies.
+If you are new to AI you will be able to procure services through a discovery phase, to get an understanding of AI and how it can benefit your organisation. If you have experience in AI, you will be able to buy licensing, customisation and support directly from suppliers. If you would like both of these things, you will have access to end-to-end partnerships.
+The type of technology available using the development, implementation and support of AI services includes AI software applications, machine learning to help with data analytics, intelligent virtual assistants and intelligent personal assistants.
+Health and social care bodies will have access to AI applications such as medical imaging software, non-imaging diagnostic software and symptom-based software, to help accelerate AI technologies in health and social care in line with theAI in Health and Care Award.
+Contracts under this agreement can range from anything up to four years, depending on the complexity of the project.
+Product types:
+Product types:
+Filter Category Level 1 – Scope of Engagement
+Filter Category Level 1 – Scope of Engagement
+The first stage of an AI procurement, this filter includes AI discovery, licencing, customisation and support, end-to-end partnerships.
+Filter Category Level 2 – Type of AI
+Filter Category Level 2 – Type of AI
+Relates to the type of technology available, examples include AI applications, augmented decision making, data and analytics, virtual assistants and chatbots and medical AI technology.
+Filter Category Level 3 – Medical AI Technology
+Filter Category Level 3 – Medical AI Technology
+Intended to broadly represent the emerging pipeline of AI technologies in health and social care, this filter includes screening, diagnosis, augmented decision making, improving system efficiency and more.
+Filter Category Level 4 – Sector
+Filter Category Level 4 – Sector
+Relates to the sectors to which a supplier is able to deliver services in an order contract and includes blue light, central government, devolved administrations, health, local government and not-for-profit.
+
+These are the benefits of the Artificial Intelligence (AI) agreement. 
+customer guidance and ordering processes align to government standards and guidelines, including theData Ethics Frameworkand the Office for AI’sGuidelines for AI Procurement
+promotes standards and criteria for AI and data-driven technology in healthcare
+addresses ethical considerations when innovating and buying AI and was designed to help customers build a strong ethics process
+bespoke terms have been added to support Intellectual Property Rights (IPR) in the AI market
+ensures the right suppliers can provide the right service offerings to reduce procurement timescales and provide an easier route to market for the type of AI
+quality, price and cultural fit (includingsocial value) can be assessed based on individual customer requirements

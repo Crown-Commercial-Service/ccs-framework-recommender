@@ -1,0 +1,45 @@
+Leasing and Loan Finance DPS
+This DPS provides government and public sector bodies  access to funding for the acquisition of an asset. The DPS offers a choice of financing options, including leasing and asset secured loans.
+This is the description of the Leasing and Loan Finance DPS agreement. 
+This Dynamic Purchasing System (DPS) acts as a funding platform, providing access to a range of lenders who can provide funding for a customer looking to acquire a new asset. The DPS offers a range of leasing options including:
+hire purchase: also known as an instalment plan where the user will become the owner of the asset
+finance lease: the finance company is (typically) the legal owner of the asset for the duration of the lease
+operating lease: the supplier, permits the user (lessee), to use an asset for a period of time, which is shorter than the economic life of the asset, without any transfer of ownership
+sale and leaseback:an arrangement where the company that sells an asset can lease back that same asset from the buyer
+asset secured loans: this is where the borrower provides an asset (typically the one purchased with the loan) to secure a loan and, if the borrower doesn’t pay the loan, the lender can take ownership of the asset
+For more detailed definitions for each of these leasing options, read the agreement specification.
+As part of a twin commercial solution, this agreement is supported byRM6146 Leasing Advisory Services.
+When using this DPS you can either:
+choose to run a further competition directly with funders
+appoint a leasing advisor through RM6146
+The leasing advisor will then run a further competition to get funding through this DPS on your behalf.
+Below is a list of four filter categories and a brief description. When registering to join the DPS a supplier will select which services they would like to offer from each of the four filter categories.
+As a buyer, you will also need to use the filters to select which options are suitable for your needs. The options you select will create a shortlist of suitable suppliers.
+Allows the supplier to select which areas of the public sector they are interested in lending to:
+central government
+ministry of defence
+local authorities
+health
+education
+other
+Provides a choice of funding arrangements including:
+hire purchase
+operating lease
+finance lease
+sale and leaseback
+loan (asset secured)
+Suppliers can select to offer one or more funding options.
+The majority of assets can be funded through the DPS with only a few exceptions:
+fleet can be financed through this DPS where a Hire Purchase, Operating Lease or Finance Lease is neededwhere a Contract Hire is required, use ourVehicle Lease, Fleet Management & Flexible Rental Solutions agreement (RM6096)
+where a Contract Hire is required, use ourVehicle Lease, Fleet Management & Flexible Rental Solutions agreement (RM6096)
+property
+Suppliers can choose the assets which they would consider funding.
+Specifies the value of the asset being funded and allows suppliers to choose the value range they would consider funding. The asset value must be at least £2000 to get funding through the DPS, and we have not applied a maximum limit.
+
+These are the benefits of the Leasing and Loan Finance DPS agreement. 
+bespoke terms and conditions, drafted by a specialist law firm which simplifies the process and promotes fair competition
+enthusiasm for this solution has attracted a wide range of lenders, providing value for money through competition
+choose your route to market by accessing the DPS directly or by appointing a leasing advisor throughRM6146 Leasing Advisory Services
+bespoke terms and conditions simplifies the legal construct for customers and ensures suppliers are pricing using the same standard terms
+the CCS Outreach Programme led by CCS’ strategic account managers will engage with customers to build awareness and explain how the DPS can support their needs
+CCS has engaged with both central government and wider public sector customers to support the development of the solution

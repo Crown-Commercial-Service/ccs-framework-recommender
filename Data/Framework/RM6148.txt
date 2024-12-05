@@ -1,0 +1,14 @@
+Quality Assurance and Testing for IT Systems 2
+Independent quality assurance testing (QAT), including testing environments, specialists, automation and services, such as consultancy.
+This is the description of the Quality Assurance and Testing for IT Systems 2 agreement. 
+The framework will use a Dynamic Purchasing System (DPS) to offer independent quality assurance testing (QAT) services for use by the whole of the public sector and their associated bodies and agencies. QAT is needed for new digital systems and services to make sure they are suitable for public launch. The agreement offers the following services:
+testing environments
+specialists
+automation
+services (such as consultancy)
+
+These are the benefits of the Quality Assurance and Testing for IT Systems 2 agreement. 
+it complements our other digital agreements, such as Digital Outcomes and Specialists (DOS) and G-Cloud
+dynamic – buyers can create bespoke specifications (within the overall DPS scope), competitions and contracts
+state your requirements and suppliers tell you how they’ll deliver the service
+government owned Intellectual Property Rights (IPR), means that you can continue to develop a digital service yourself or with any third party, or share and reuse it

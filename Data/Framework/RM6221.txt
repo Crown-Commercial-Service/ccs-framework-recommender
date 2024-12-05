@@ -1,0 +1,27 @@
+Digital Capability for Health
+Application development and management services for the public health and care sector
+This is the description of the Digital Capability for Health agreement. 
+We worked withNHS Digitalto create this agreement, to support public health and other care organisations with providing digital outcomes and services.
+Customers using this agreement will be able to access:
+an agile approach to development services for new digital solutions
+support with existing products and services
+data management services (for the collection, processing and distribution of health data)
+
+Made up of a single lot, this agreement provides services in the following 5 areas:
+development and operations (DevOps) – for ongoing minor improvements of live services
+digital definition services – creating and progressing the project through discovery and alpha phases
+build and transition services – building the services using beta and live phases
+end-to-end development services – designing and developing the services from discovery to live phases
+data management (and similar) services – for performing data collection, data processing and analysis and management of data and services
+
+You will be able to combine appropriate service areas with Government Digital Services (GDS) phases. For more information on GDS project phases, take a look at thephases of an agile project.
+The agreement will run for 4 years with no option to extend.
+Call-off contracts can be up to a maximum length of 2 or 4 years, depending on the type of services delivered.
+You will have the option to extend your call-off contract by up to 6 months or 1 year. This will depend on the initial length of your call-off contract.
+
+These are the benefits of the Digital Capability for Health agreement. 
+access to suppliers with the right capabilities and experience to meet your needs
+supports further competition to make sure health and social care bodies are receiving value for money
+quality and price can be assessed based on individual customer’s need
+an efficient structure and approach to commissioning a variety of projects
+agile delivery of services based on theService Standard

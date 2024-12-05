@@ -1,0 +1,21 @@
+Payment Acceptance 2
+Enables the public sector to accept card and alternative payment methods either face to face or through eCommerce and digital routes. Provides access to payment (payments in and out) consultancy services.
+This is the description of the Payment Acceptance 2 agreement. 
+Provides a range of payment acceptance services including:
+card acquiring and gateway services: this is the process of collecting card-based payments from customers and their banks and then giving them to retailers and merchants both in person and online
+payment equipment, such as chip and pin machines
+alternative payment methods (APMs) such as over the phone and the internet
+payment initiation services (PISP) as an optional service
+Also included are specialist payment consultancy services to help customers assess their end to end payment landscape. A payment landscape refers to the money customers receive (accept) and how they pay for the services they use (issuance).
+What is payment acceptance?
+What is payment acceptance?
+Payment acceptance is a process where providers of goods and services are paid by consumers.
+Typically, those receiving payments are paid by an ‘acquirer’. This is a regulated entity who can settle funds from a range of payment types (such as Visa and MasterCard).
+The acquirer usually receives funds from the consumer’s card or account ‘issuer’. The rules of the relevant payment scheme governs this transaction flow and is provided by the relevant interbank processor.
+The Agreement has a 4 year contract period.
+
+These are the benefits of the Payment Acceptance 2 agreement. 
+customers can buy services to meet their specific payment acceptance needs
+transparent fee structure
+savings of up to 15% against typical market rates
+wide range of suppliers from large nationals to SMEs

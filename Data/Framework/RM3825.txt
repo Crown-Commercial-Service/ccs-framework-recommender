@@ -1,0 +1,13 @@
+HSCN Access Services DPS
+Access to the Health and Social Care Network (HSCN) for data sharing. Including support for transition and implementation.
+This is the description of the HSCN Access Services DPS agreement. 
+This agreement provides access to the HSCN for health, social care, and related organisations. The HSCN is a data network that enables health and social care services to access and share information reliably, flexibly and efficiently. The agreement includes support for transition and implementation.
+The framework uses a Dynamic Purchasing System (DPS) which helps customers find relevant suppliers through a filtering system.
+If you’re a supplier and want to join the DPS please use thislinkto register.
+
+These are the benefits of the HSCN Access Services DPS agreement. 
+the dynamic nature of the DPS improves your choice and value for money
+HSCN-compliant connectivity services
+supplementary services, including PSN connectivity, cloud access, ISP services, virtual routing and forwarding (VRF), network access and security, virtual private networks (VPNs), firewalls, and intrusion prevention and detection
+professional services to support transition and implementation
+lower cost compared to previous N3 services

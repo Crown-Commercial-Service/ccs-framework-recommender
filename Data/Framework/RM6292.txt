@@ -1,0 +1,22 @@
+Cloud Compute 2
+All central government and wider public sector organisations can access cloud computing services. Includes Platform-as-a-Service (PaaS), Infrastructure-as-a-service (IaaS) and other additional ancillary services.
+This is the description of the Cloud Compute 2 agreement. 
+You can access all core cloud computing services either directly through cloud service suppliers or indirectly with the support of a resell supplier. Core services include:
+PaaS: provides platform tools needed to create applications that will provide a service over the internet (as well as other things).
+IaaS: provides compute, storage, networking and other hardware capabilities
+microservices such as third party subscription services that run in customer tenancies and are directly related to the usage, security, governance, optimisation and/or management of your core services
+For more information on PaaS and IaaS, read theNational Institute of Standards and Technology’s (NIST) Definition of Cloud Computing.
+There is also the option to buy ongoing and value adding services, that are ancillary to your core cloud services from cloud partners and resellers, such as:
+optimised billing and administration
+‘FinOps’ tooling
+For more information, read the products and suppliers section below. You can buy these services independently or alongside resold core services.
+You can also buy professional support services either independently or alongside any core or value adding service. These are consultancy and enterprise support services provided by cloud partners and experts to support your planning, adoption or maximisation of cloud computing.
+This agreement will run from 28 November 2023 for 3 years and will end in 2027. You will have the option to extend by up to 1 year.
+
+These are the benefits of the Cloud Compute 2 agreement. 
+robust terms and conditions that reduce the need for long negotiations and meets central government commercial policy requirements
+terms and conditions tailored for hyperscale (very large public cloud platforms) services which ensures better protection and understanding
+direct award and further competition routes to market which allows for savings in time and money
+flexibility in the services that suppliers may offer, ensuring that the latest services are always available to you
+reduces the need for you to buy hyperscale compute services every 2 years through G-Cloud, honouring your 3-year commitments
+compliance with the Procurement Policy Note 06/20: ‘Taking account of Social Value in the award of central government contracts’
