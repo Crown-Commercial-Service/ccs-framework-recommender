@@ -1,4 +1,6 @@
 .venv/
 ED_files/
 Password.csv
-local.setting.json
+.env
+.python_packages
+__pycache__

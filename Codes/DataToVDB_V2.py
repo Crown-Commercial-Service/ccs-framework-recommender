@@ -1,10 +1,11 @@
-import requests
-from bs4 import BeautifulSoup
-from lxml import html
 import os
 import pandas as pd
 from sqlalchemy import create_engine
+from azure.search.documents import SearchClient
+from azure.core.credentials import AzureKeyCredential
+from o
 
+# -------------------------------------Credentials--------------------------------------------------------------
 # Load configuration from environment variables
 OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
 OPENAI_ENDPOINT = os.getenv("OPENAI_ENDPOINT")
@@ -13,6 +14,16 @@ SEARCH_CLIENT_API_KEY = os.getenv("SEARCH_CLIENT_API_KEY")
 BLOB_CONNECTION_STRING = os.getenv("BLOB_CONNECTION_STRING")
 DB_username = os.getenv("DHW_Username")
 DB_password = os.getenv("DHW_Password")
+
+
+# --------------------------------------Useful functions ------------------------------------------------------
+
+def get_embedding():
+    pass
+
+
+
+#-------------------------------------Frame work Data extraction from DWH-------------------------------------------
 
 # Input details for the SQL database
 DB_TYPE = "mssql"
@@ -35,6 +46,7 @@ where FrameworkStatus = 'Live'"""
 
 df_retrieval = pd.read_sql(sql, conn)
 
+# ------------------------------------------Reading the framework description-----------------------------------------
 # reading the framework description
 # Directory containing the text files
 directory_path = r"C:\Users\Naresh.Sampara\PycharmProjects\P9_FRAMEWORD_recommender\Data\Framework"
