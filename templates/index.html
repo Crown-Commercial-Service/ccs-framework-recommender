@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Framework Search</title>
+    <!-- Include Bootstrap CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <!-- Custom CSS -->
+    <style>
+        /* Custom styles inspired by the CCS website */
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f8f9fa; /* Light gray background */
+            color: #333333;
+        }
+
+        header {
+            background-color: #b30404; /* Dark navy blue */
+            color: white;
+            padding: 15px 20px;
+            text-align: center;
+        }
+
+        header img {
+            max-height: 70px;
+            vertical-align: middle;
+        }
+        
+        
+        header h1 {
+            display: inline-block;
+            margin: 0;
+            margin-left: 15px;
+            font-size: 1.5rem;
+        }
+
+        footer {
+            background-color: #e7e7e7; /* Light gray footer */
+            color: #333333;
+            text-align: center;
+            padding: 10px 0;
+            margin-top: 20px;
+        }
+
+        .btn-primary {
+            background-color: #003a69;
+            border-color: #003a69;
+        }
+
+        .btn-primary:hover {
+            background-color: #005499; /* Lighter blue on hover */
+            border-color: #005499;
+        }
+
+        table th {
+            background-color: #003a69;
+            color: white;
+        }
+
+        table td {
+            vertical-align: middle;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <!-- Logo -->
+        <img src="{{ url_for('static', filename='Images/CCS_BLK_Supplier_AW-72dpi.png') }}" alt="CCS Logo">
+        <h1>Crown Commercial Service</h1>
+    </header>
+
+    <div class="container mt-5">
+        <h1>Framework Search</h1>
+        <form method="post" class="mt-4">
+            <div class="form-group">
+                <label for="query">Enter your query:</label>
+                <input type="text" class="form-control" id="query" name="query" placeholder="Ask a question...">
+            </div>
+            <button type="submit" class="btn btn-primary">Search</button>
+        </form>
+        <hr>
+        <!-- Display the question -->
+        {% if query %}
+            <h4 class="mt-6">{{ query }}</h4>
+        {% endif %}
+        
+        {% if reply %}
+        <div>
+            {{reply|safe}}
+        </div>        
+        {% endif %}
+    </div>
+
+    <footer>
+        <p>&copy; 2024 Crown Commercial Service. All rights reserved.</p>
+    </footer>
+
+    <!-- Include Bootstrap JS (optional) -->
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.10.2/dist/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+</body>
+</html>

@@ -8,12 +8,13 @@ from datetime import datetime
 
 DB_username = os.getenv("DHW_Username")
 DB_password = os.getenv("DHW_Password")
+DB_Server = os.getenv('DB_SERVER')
 
 # Input details for the SQL database
 DB_TYPE = "mssql"
 DB_USER = DB_username
 DB_PWD = DB_password
-DB_SERVER = "azp-ukw-sql01.database.windows.net"
+DB_SERVER = DB_Server
 DB_PORT = "1433"
 DB_NAME = "PBI"
 DB_DRIVER = "SQL Server"
