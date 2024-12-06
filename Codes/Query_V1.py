@@ -16,7 +16,7 @@ BLOB_CONNECTION_STRING = os.getenv("BLOB_CONNECTION_STRING")
 #---------------------Clients --------------------------------
 openai_client = AzureOpenAI(api_key=OPENAI_API_KEY,
                      api_version="2023-07-01-preview",
-                     azure_endpoint="https://azd-uks-ai-azureopenai.openai.azure.com")
+                     azure_endpoint=OPENAI_ENDPOINT)
 
 search_client = SearchClient(endpoint=SEARCH_CLIENT_ENDPOINT, 
                              index_name="azd-uks-ai-framework_v2",
@@ -43,11 +43,7 @@ def search_service(query):
     
     return results
 
-def LLM_response(Question, Answers):
-
-    client = AzureOpenAI(api_key="24af3f648fb04bf192f03465981b58d1",
-                     api_version="2023-07-01-preview",
-                     azure_endpoint="https://azd-uks-ai-azureopenai.openai.azure.com")
+def LLM_response(Question, Answers, client = openai_client):
 
     system_prompt = 'You are a chatbot expert in the answering the ccs frameworks recommender .'
     user_prompt = f"Question: {Question}\n\nSearch Results:\n{Answers}\n\nProvide a summary that answers the question:"
